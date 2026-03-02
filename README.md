@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Wall-Bender/Cs2_Wos0_Config/blob/main/game-icon.png" alt="Wos0 CS2 Config Logo" width="150"/>
+  <img src="https://github.com/Wall-Bender/Cs2_Wos0_Config/blob/main/resource/game-icon.bmp alt="Wos0 CS2 Config Logo" width="150"/>
   
   # 💜 WOS0 CS2 PROFESSIONAL CONFIG SET
   **Counter-Strike 2 için özel olarak tasarlanmış, taktiksel avantaj sağlayan "Director Wos0" yapılandırması.**
